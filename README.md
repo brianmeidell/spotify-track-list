@@ -8,3 +8,5 @@ Takes a list of https://open.spotify... urls and turns them into a csv file of a
 4. Run spotify-track-list.rb -i urls.txt -o tracks.csv 
 5. Now you have all the artist/album/track name info in tracks.csv
 
+## Problems?
+If you get errors about nokogiri, run "gem install nokogiri" 
